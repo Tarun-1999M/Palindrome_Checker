@@ -1,0 +1,33 @@
+body{
+    font-size: x-large;
+    background-color: #fafafa;
+}
+
+#container{
+    width:500px;
+    text-align: center;
+    border:1px solid black;
+    margin:0;
+    position:absolute;
+    top:20%;
+    left: 40%;
+    background-color: #ffe9e3;
+}
+
+#inputContainer{
+    background-color:#c4c1e0;
+    border-radius:4px;
+    width:80%;
+    margin:2px auto;
+    padding:4px 4px;
+}
+
+#about{
+    background-color: #7c73e6;
+    border-radius: 4px;
+    width: 80%;
+    margin:4px auto;
+    margin-top:10px;
+    padding:4px 4px;
+    color:white;
+}
